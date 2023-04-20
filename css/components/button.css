@@ -1,0 +1,10 @@
+/* button CSS */
+.btn-green {
+  text-decoration: none;
+  padding: 15px 30px;
+  background-color: #5deeab;
+  border-radius: 25px;
+  color: white;
+  display: inline-block;
+  text-align: center;
+}

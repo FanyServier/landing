@@ -1,0 +1,17 @@
+/* footer CSS */
+.footer {
+  background-color: rgb(41, 39, 39);
+  background-size: cover;
+  color: rgb(121, 109, 109);
+  height: 200px;
+}
+
+.icon {
+  text-align: center;
+  font-size: 30px;
+  padding-top: 40px;
+}
+
+p {
+  text-align: center;
+}
